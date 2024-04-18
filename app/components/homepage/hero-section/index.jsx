@@ -134,7 +134,7 @@ function HeroSection() {
                 <span className="text-gray-400">{"'],"}</span>
               </div>
               <div>
-                <span className="ml-4 lg:ml-8 mr-2 text-white">Creative:</span>
+                <span className="ml-4 lg:ml-8 mr-2 text-white">creative:</span>
                 <span className="text-orange-400">true</span>
                 <span className="text-gray-400">,</span>
               </div>
@@ -159,7 +159,7 @@ function HeroSection() {
               </div>
               <div>
                 <span className="ml-12 lg:ml-24 text-cyan-400">this.</span>
-                <span className="mr-2 text-white">Creative</span>
+                <span className="mr-2 text-white">creative</span>
                 <span className="text-amber-300">&amp;&amp;</span>
               </div>
               <div>
